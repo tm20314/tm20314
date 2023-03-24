@@ -1,14 +1,14 @@
-### gadgelogger
+## gadgelogger
 
-### お知らせ
-
-### 所属・経歴
+## お知らせ
+今は特にないかなぁ
+## 所属・経歴
 ・岡山理科大学総合情報学部情報化学科(2021-)
-### 作品とか
+## 作品とか
 ・Flutter関連
 岡理アプリ
 
-### 連絡先
+## 連絡先
 [Twitter](https://twitter.com/gadgelogger)
 
 
