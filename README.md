@@ -1,7 +1,7 @@
 ## gadgelogger
 
 ## お知らせ
-２０２３・０３・１０：岡理アプリリリース
+2023/03/10：岡理アプリリリース
 ## 所属・経歴
 ・Okayama University of Science(2021/04/03)
 I21I062
