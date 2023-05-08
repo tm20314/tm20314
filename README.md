@@ -1,10 +1,10 @@
-## gadgelogger
+## Yusei Tsumori
 
 ## お知らせ
 2023/03/10：岡理アプリリリース
 ## 所属・経歴
-・Okayama University of Science(2021/04/03)
-## 作品とか
+・岡山理科大学・総合情報学部・情報科学科(2021/04/03)
+## 制作物関連
 ・Flutter関連
 岡理アプリ
 
