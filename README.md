@@ -17,8 +17,10 @@
 
 ## 🪛 制作物関連:
 ・Flutter関連<br>
-岡理アプリ<br>
-[アプリ公式サイト](https://ous-unoffical-app.studio.site/)
+[岡理アプリ](https://ous-unoffical-app.studio.site/)
+
+・Swift関連<br>
+[ここらへん](https://apps.apple.com/app/id6448917866)
 
 
 
