@@ -33,7 +33,7 @@
 |--------|--------|--------|
 | [岡理アプリ](https://ous-unoffical-app.studio.site/) | 個人開発<br/>岡山理科大学の単位を検索できる非公式アプリ | Flutter・Firebase |
 | [ここらへん](https://apps.apple.com/app/id6448917866) | 個人開発<br/>周辺施設を検索できるシンプルなスポットアプリ | SwiftUI・GooglePlaceAPI |
-
+|coming soon|coming soon|coming soon|
 
 
 
