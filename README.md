@@ -60,4 +60,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gadgelogger&theme=swift)
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
