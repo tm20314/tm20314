@@ -66,3 +66,6 @@ Last Updated on 4/12/2024, 12:22:11 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![readme.pet](https://readme.pet/api?username=gadgelogger)
