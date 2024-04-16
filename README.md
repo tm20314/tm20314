@@ -40,7 +40,7 @@
 
 
 ## 🌐 SNS関連:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Gadgelogger#4120) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gadgelogger0314) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gadgelogger) [![facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010009538418) [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gadgelogger) [![Zenn](https://img.shields.io/badge/zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/gadgelogger)[![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/gadgelogger)
+ [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gadgelogger) [![Zenn](https://img.shields.io/badge/zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/gadgelogger)[![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/gadgelogger)
 
 
 
