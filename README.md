@@ -62,7 +62,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/HGPLEN4" target="_blank" rel="noopener noreferrer"><img alt="HGPLEN4のLAPRASでのスコアは次の通りです: エンジニアリング: 3.51 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.59 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.51&b=2.85&i=3.59&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 5/4/2024, 12:21:34 AM</p>
+Last Updated on 5/5/2024, 12:23:56 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
