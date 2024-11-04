@@ -49,16 +49,16 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gadgelogger&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gadgelogger&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gadgelogger&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tm20314&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tm20314&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tm20314&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gadgelogger&theme=swift)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tm20314&theme=swift)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gadgelogger&theme=swift" />
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tm20314&theme=swift" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gadgelogger&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tm20314&theme=swift)
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/HGPLEN4" target="_blank" rel="noopener noreferrer"><img alt="HGPLEN4のLAPRASでのスコアは次の通りです: エンジニアリング: 3.38 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.6 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.38&b=2.85&i=3.6&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
@@ -68,4 +68,4 @@ Last Updated on 11/4/2024, 12:29:40 AM</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![readme.pet](https://readme.pet/api?username=gadgelogger)
+![readme.pet](https://readme.pet/api?username=tm20314)
