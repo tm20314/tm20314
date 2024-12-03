@@ -61,8 +61,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tm20314&theme=swift)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/HGPLEN4" target="_blank" rel="noopener noreferrer"><img alt="HGPLEN4のLAPRASでのスコアは次の通りです: エンジニアリング: 3.55 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.6 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.55&b=2.85&i=3.6&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 12/2/2024, 12:31:54 AM</p>
+<p ><a href="https://lapras.com/public/HGPLEN4" target="_blank" rel="noopener noreferrer"><img alt="HGPLEN4のLAPRASでのスコアは次の通りです: エンジニアリング: 3.55 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.61 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.55&b=2.85&i=3.61&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 12/3/2024, 12:31:28 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
